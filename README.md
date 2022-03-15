@@ -1,6 +1,7 @@
 # Curso-Física-computacional
 
 Dictado por Alfredo Campos
+
 Universidad Tecnológica de Panamá
 
 # Acerca del curso
