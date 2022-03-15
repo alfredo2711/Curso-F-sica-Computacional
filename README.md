@@ -1,1 +1,2 @@
-# Curso-F-sica-computacional
+# Curso-Física-computacional
+
