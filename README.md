@@ -37,12 +37,8 @@ La documentación de Anaconda nos da instrucciones detalladas de cómo instala
 Alternativamente Software Carpentry también nos ofrece instrucciones muy sencillas de cómo instalar Anaconda en cualquier sistema operativo: Installing Python Using Anaconda. El mismo incluye videos instructivos para Windows y Mac OS X.
 
 2. Instalar la opción de abrir Jupyter con clic derecho (Opcional)
-
-En Anaconda prompt escribir
-
+En Anaconda prompt escribir:
 conda install -c conda-forge start_jupyter_cm 
-
-En Anaconda prompt escribir
-
+En Anaconda prompt escribir:
 start_jupyter_cm 
 
