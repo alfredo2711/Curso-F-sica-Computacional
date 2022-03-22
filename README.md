@@ -9,6 +9,18 @@ Universidad Tecnológica de Panamá
 El curso tiene como objetivo introducir a las y los participantes al lenguaje de programación Python, orientado al manejo y análisis de datos, así como también al modelado de sistemas físicos. La idea es que los y las participantes sean capaces, al finalizar el curso, de poder realizar el análisis de sus propios datos y modelado de diversos sistemas físicos. 
 Se espera que el estudiante adquiera herramientas para poder continuar aprendiendo más sobre las diversas librerías científicas del ecosistema del lenguaje Python.
 
+Objetivos específicos
+Introducirnos en la sintaxis de Python
+Aprender a utilizar Jupyter notebook
+Utilizar librerías científicas (numpy, matplotlib, sympy, scypy,……)
+Manejo y análisis de datos
+Gráficos
+Ajuste de curvas
+Resolución de ecuaciones (derivadas, integrales, ec. Diferenciales, ……..)
+Animaciones de sistemas físicos
+………………………………….
+
+
 
 # Software
 
