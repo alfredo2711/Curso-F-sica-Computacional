@@ -10,13 +10,21 @@ El curso tiene como objetivo introducir a las y los participantes al lenguaje de
 Se espera que el estudiante adquiera herramientas para poder continuar aprendiendo más sobre las diversas librerías científicas del ecosistema del lenguaje Python.
 
 Objetivos específicos
+
 Introducirnos en la sintaxis de Python
+
 Aprender a utilizar Jupyter notebook
+
 Utilizar librerías científicas (numpy, matplotlib, sympy, scypy,……)
+
 Manejo y análisis de datos
+
 Gráficos
+
 Ajuste de curvas
+
 Resolución de ecuaciones (derivadas, integrales, ec. Diferenciales, ……..)
+
 Animaciones de sistemas físicos
 ………………………………….
 
